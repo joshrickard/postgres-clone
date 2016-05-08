@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/joshrickard/postgres-clone.svg?branch=master)](https://travis-ci.org/joshrickard/postgres-clone)
+
 # PostgresClone
 
 A command line utility for cloning Postgres databases.
