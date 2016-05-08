@@ -60,7 +60,6 @@ pg-clone --src-host=local --src-db=database --dst-host=db.example.com
 * Add checks for existing databases
 * Add options for all prompts
 * Check for existing dump on target machines before doing work
-* Use `create database with template` when src host == dst host
 
 ## Contributing
 
